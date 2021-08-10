@@ -1,0 +1,30 @@
+body{
+    background-color: blue;
+    border: black;
+    border-width: 90%;
+}
+.sign{
+    text-align: right;
+    margin: auto;
+    background: cornflowerblue;
+}
+.image{
+    text-align: center;
+    border-image: url("img.png") stretch;
+}
+h1{
+    text-align: center;
+}
+.user{
+    text-align: center;
+}
+.Password{
+    text-align: center;
+}
+.submit{
+    text-align: center;
+    margin-top: 7px;
+}
+footer{
+    text-align: center;
+}
